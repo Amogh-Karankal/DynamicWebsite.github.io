@@ -1,0 +1,39 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+	font-family: 'Fondamento', cursive;
+
+}
+html{
+	scroll-behavior: smooth;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 90vh;
+  }
+
+  .about-img{
+  	/*padding: 5px 450px;*/
+  	width: 100%;
+  	height:325px;
+  	
+  }
+.contactme{
+	background: linear-gradient(330deg, #16c9f6 55%, #fff 0%);
+	width: 100%;
+	height: 100vh;
+}
+
+section{
+	width: 100%;
+	height: 100vh;
+}
+.aboutdiv-image{
+	padding: 5px 450px;
+	width: 100%
+	height: 325px;
+	display: flex;
+  	justify-content: center;
+  	align-content: center;
+}
+
